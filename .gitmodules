@@ -1,0 +1,3 @@
+[submodule "grendelPhysicalOperationProgram"]
+	path = grendelPhysicalOperationProgram
+	url = https://github.com/johnfire/grendelPhysicalOperationProgram.git
